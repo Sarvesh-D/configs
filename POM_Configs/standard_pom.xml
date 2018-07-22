@@ -9,8 +9,8 @@
 	<packaging>jar</packaging>
 
 	<name>Foo Bar Project name</name>
-	<description>Foo Bar project description</description>
-	<url>https://github.com/Sarvesh-D/common-utils</url>
+	<description>Foo Bar Project Description</description>
+	<url>https://github.com/Sarvesh-D/foo-bar</url>
 
 	<licenses>
 		<license>
